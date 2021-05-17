@@ -7,17 +7,17 @@ I'm a Frontend engineer with a proven ability to deliver robust, responsive Reac
 - 🔭 I’m currently working on refactoring my past projects 
 - 🌱 I’m currently learning React Native 
 - 👯 I’m looking to collaborate on a React app 
-- 🤔 I’m looking for help with building an arcade style game with react 
+- 🤔 I’m looking for help building an arcade style game with react 
 - 💬 Ask me about what I love about coding 
 - 📫 Reach me via email: ozharb@gmail.com  
 - 📲 Call me at 206.962.1815
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I'm watching the original Star Trek series for the first time. 🖖 
 
-![Oz's github stats](https://github-readme-stats.vercel.app/api?username=ozharb&show_icons=true&theme=dark)
+![Oz's github stats](https://github-readme-stats.vercel.app/api?username=ozharb&show_icons=true&theme=dark&custom_title=Oz's%20GitHub%20Stats)
 
 ### Language Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozharb&layout=compact)](https://github.com/ozharb/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozharb&layout=compact&custom_title=ozharb)](https://github.com/ozharb/github-readme-stats)
 <!--
 **ozharb/ozharb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
