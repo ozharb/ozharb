@@ -7,7 +7,7 @@ I'm a Frontend engineer with a proven ability to deliver robust, responsive Reac
 - 🔭 I’m currently working on developing a WordPress site for a client
 - 🌱 I’m currently learning C#, .NET, and Azure
 - 👯 I’m looking to collaborate on a React app 
-- 🤔 I’m looking for help building an arcade style game with react 
+- 🤔 I’m looking for help building a game with React 
 - 💬 Message me here: <a href="https://www.linkedin.com/in/osman-harb/" target="_blank">LinkedIn </a>
 - 📫 Reach me via email: ozharb@gmail.com  
 - 📲 Call/Text me at 206.962.1815
